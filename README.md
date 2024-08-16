@@ -64,9 +64,6 @@ You can copy and paste this code into a Markdown file and modify the text as nee
 Test Plan
 I have created a Test Plan for the Project
 
-Project name: 
-What.
 
-dad
 
 
